@@ -1,0 +1,17 @@
+{
+  "timeZone": "America/Chicago",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dataStudio": {
+    "name": "Conduit.app Connector",
+    "logoUrl": "https://sharehubtech.com/uploads/images/Tools-logo/getconduit.jpg",
+    "company": "Conduit Grail, Inc.",
+    "companyUrl": "https://www.getconduit.app/",
+    "addonUrl": "https://www.getconduit.app/",
+    "supportUrl": "https://www.getconduit.app/",
+    "description": "Retrieve CSV data from Conduit's API endpoint.",
+    "authType": [
+      "NONE"
+    ]
+  }
+}
